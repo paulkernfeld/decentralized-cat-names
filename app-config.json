@@ -1,0 +1,16 @@
+{
+    "networkName": "testnet",
+    "burnAddress": "mvCatNamesXXXXXXXXXXXXXXXXXXcgSA6W",
+    "opReturnPrefix": "63617473",
+    "checkpoint": {
+        "height": 716400,
+        "header": {
+            "version": 4,
+            "prevHash": "00000000000090c5154b1e17d0a9fd2d4727d302cf680ee7a4ad4fac353c0cd1",
+            "merkleRoot": "45fc593653771e59e22b9a14761b53b5958b24a171c9aeb7a55ee3017c7d3964",
+            "time": 1455881969,
+            "bits": 453246972,
+            "nonce": 4147662168
+        }
+    }
+}

@@ -1,0 +1,4 @@
+node_modules/
+testdata/
+client-config.json
+.checksum

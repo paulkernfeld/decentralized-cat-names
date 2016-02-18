@@ -1,0 +1,29 @@
+{
+  "name": "decentralized-cat-names",
+  "version": "0.1.0",
+  "description": "A decentralized set of cat names",
+  "main": "index.js",
+  "dependencies": {
+    "bitcore-lib": "^0.13.13",
+    "burn-stream": "^0.2.0",
+    "burn-stream-writer": "^0.1.0",
+    "litpro": "^0.12.1",
+    "webcoin": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^6.0.5"
+  },
+  "scripts": {
+    "build": "node_modules/litpro/litpro.js blog.md -b .",
+    "test": "standard"
+  },
+  "keywords": [
+    "decentralized",
+    "bitcoin",
+    "webcoin",
+    "spv",
+    "world-writable"
+  ],
+  "author": "Paul Kernfeld",
+  "license": "ISC"
+}
